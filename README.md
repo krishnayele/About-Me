@@ -5,4 +5,4 @@
 
 * [find the best Regression method ](https://github.com/krishnayele/Machine-learning-projects/tree/master/Week_1)
 * [Generate a csv file](https://github.com/krishnayele/Machine-learning-projects/tree/master/week_2)
-* [Soon a link for React app]
+* [React app](https://github.com/krishnayele/react-mooc)
